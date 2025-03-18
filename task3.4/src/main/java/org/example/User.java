@@ -25,6 +25,7 @@ public class User {
         this.age = age;
     }
     public String toString() {
-        return   name + ", возраст " + age + " лет";
+       return   name + ", возраст " + age + " лет";
     }
 }
+
